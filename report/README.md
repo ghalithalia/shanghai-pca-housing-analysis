@@ -27,7 +27,8 @@ The analysis includes spatial filtering, distance calculations using KDTree, and
 
 ## 📄 Full Report
 
-📥 [Click here to read the full project report (PDF)](./report/PCA-Ghali_ Thalia.pdf)
+📥📥 [Click here to read the full project report (PDF)](./report/PCA-ThaliaGhali.pdf)
+
 
 ---
 
