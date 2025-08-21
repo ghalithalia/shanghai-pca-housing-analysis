@@ -27,7 +27,7 @@ The analysis includes spatial filtering, distance calculations using KDTree, and
 
 ## 📄 Full Report
 
-📥📥 [Click here to read the full project report (PDF)](./PCA.ipynb)
+📥📥 [Click here to read the full project report (PDF)](./Notebooks/PCA.ipynb)
 
 
 ---
